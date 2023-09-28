@@ -7,7 +7,7 @@ To improve your skill in this lab.
 2. Now right-click and Open in Terminal
 3. git clone
 
-#Usage for php apache & mysql user
+# Usage for php apache & mysql user
 1. You need to goto the directory of var/www/html
 2. Now right-click and Open in Terminal
 3. git clone
