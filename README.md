@@ -3,7 +3,7 @@ To improve your skill in this lab.
 
 
 # Usage for XAMPP user
-1. You need to go the directory of /opt/lamm/htdocs
+1. You need to go the directory of /opt/lampp/htdocs
 2. Now right-click and Open in Terminal
 3. git clone https://github.com/lizcoder783/xss-labs.git
 
